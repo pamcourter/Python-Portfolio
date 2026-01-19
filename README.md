@@ -1,4 +1,4 @@
-# Python
+# Python Portfolio
 
 ##### I started learning python December 2025 so I'm still pretty new. I will be posting my favorite projects here. 
 
